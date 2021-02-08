@@ -1,0 +1,13 @@
+Lib/
+Scripts/
+*.doc
+*.xls
+vendor/
+share/
+bkup/
+etc/
+Include/
+old_pages/
+others/
+*.sqlite3
+
